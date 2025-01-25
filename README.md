@@ -2,7 +2,7 @@
 
 Este repositorio contiene los ejercicios realizados para configurar servidores de distribución de audio en Linux y Windows, reconocer y utilizar formatos de audio digital, implementar canales RSS para sindicación y suscripción de audio, y describir un servicio de audio para la empresa ficticia GreyCloud.
 
-## Comenzando 🚀
+## Comenzando 
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
